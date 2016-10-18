@@ -1,0 +1,8 @@
+.formAlt{
+	text-align: center;
+	border: 1px solid black;
+	display: default;
+	float: center;
+	background-image: url('sticky.png');
+}
+
